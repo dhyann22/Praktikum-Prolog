@@ -1,2 +1,2 @@
 # Praktikum-Prolog
-# Iformatika
+# Informatika
